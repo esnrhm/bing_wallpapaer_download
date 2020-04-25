@@ -1,1 +1,1 @@
-# bing_wallpapaer_download
+# bing_wallpapaer_downloader
